@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+background: url("./imagefolder/photo.jfif");
+background-repeat: no-repeat;
+background-size:cover;
+}
+
+.container{
+background-color:rgb(42, 5, 42);
+height: 300px;
+margin-top: 80px;
+}
+
+h1{
+    margin-left:40%;
+    margin-top: 100px;
+    color: antiquewhite;
+}
+
+.input1{
+    position:absolute;
+    left: 10px;
+    top: 5px;
+    color: white;
+    width: 20px;
+
+}
+
+input{
+text-align: center; 
+height: 40px;
+width: 320px;
+border: 0.5px thick;
+padding: 10px 50px 30px 0;
+text-decoration: line-through;
+background-color: turquoise;
+
+
+}
+
+.container1{
+    position:500px absolute;
+    left: 460px;
+    top: 170px;
+    color: aliceblue;
+
+}
+
+.head-div{
+bottom:70px ;
+left: 470px;
+position: absolute;
+padding: 10px 50px 30px 0;
+}
+
+.footer{
+    
+    padding-left: 30px;
+    margin-bottom: -40px;
+    
+
+}
+
+ul{
+    display: flex;
+    font-size: 16px;
+    list-style: none;
+    justify-content: center;
+    color: blanchedalmond;
+    line-height: 8px;
+    
+    
+}
+
+
+
+
+
+
